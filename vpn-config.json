@@ -1,0 +1,13 @@
+{
+  "enabled": true,
+  "probe_backend_url": "https://manga.rootsu.tech/api/v1/app-config",
+  "probe_wordpress_url": "https://yaoibankmm.online",
+  "probe_image_cdn_url": "https://cdnimg.yaoibankmm.online/3646f9c0da06456cb6783a1cb91910f9:ymm/2026/02/Picsart_26-02-10_18-36-08-710.jpg",
+  "servers": [
+    {
+      "name": "Primary SS",
+      "type": "ss",
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppNnBiT3FIcWExMWxsa1JZTDBHNzdO@209.38.18.87:443/?outline=1"
+    }
+  ]
+}
